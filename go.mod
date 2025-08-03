@@ -1,4 +1,4 @@
-module github.com/Oniqq60/project-prot
+module github.com/Oniqq60/project-protos
 
 go 1.23.4
 
